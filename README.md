@@ -1,8 +1,8 @@
 # CSE0001 - Digital Literacy Project
 
-**Student Name:** Shivansh Dayal
-**Registration Number:** 25BCE11239
-**Branch / Year:** Computer Science Engineering / First Year B.Tech
+- **Student Name:** Shivansh Dayal
+- **Registration Number:** 25BCE11239
+- **Branch / Year:** Computer Science Engineering / First Year B.Tech
 
 ## Project Overview
 This repository contains my Digital Literacy Portfolio, created for my role as a Student Digital Ambassador. The objective of this project is to demonstrate safe digital navigation, establish a professional online presence, and create resources to guide peers in responsible digital communication and security. It contains five tasks corresponding to the five modules of the course.
