@@ -8,15 +8,15 @@ The Real Incident:
 
 Step-by-Step Execution:
 
-The Hook: The victim received an urgent SMS containing a phone number to contact the "electricity board officer" immediately.
+- The Hook: The victim received an urgent SMS containing a phone number to contact the "electricity board officer" immediately.
 
-The Setup: Panicking about losing power, the victim called the number. The scammer instructed him to download a remote screen-sharing application (like AnyDesk or TeamViewer) to "help update the bill system."
+- The Setup: Panicking about losing power, the victim called the number. The scammer instructed him to download a remote screen-sharing application (like AnyDesk or TeamViewer) to "help update the bill system."
 
-The Trap: The scammer asked the victim to make a nominal ₹10 test payment via his UPI app to verify his customer account.
+- The Trap: The scammer asked the victim to make a nominal ₹10 test payment via his UPI app to verify his customer account.
 
-The Theft: Because the screen-sharing app was active, the scammer secretly recorded the victim's 6-digit UPI PIN when it was entered on the screen.
+- The Theft: Because the screen-sharing app was active, the scammer secretly recorded the victim's 6-digit UPI PIN when it was entered on the screen.
 
-The Drain: The scammer immediately used the stolen PIN to authorize multiple high-value transactions in the background.
+- The Drain: The scammer immediately used the stolen PIN to authorize multiple high-value transactions in the background.
 
 Targets and Consequences:
 - These cybercriminals typically target senior citizens, busy professionals, and students who might act quickly under pressure. The consequences are devastating financial loss and severe emotional distress. Because UPI transfers are instantaneous, recovering the stolen funds is exceptionally difficult once the PIN is compromised.
